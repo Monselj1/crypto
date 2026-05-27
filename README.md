@@ -1,5 +1,3 @@
-# crypto
-Crypto Exchange Rate
 # Crypto Exchange Rate App
 
 This app allows users to select a cryptocurrency and a traditional currency to view the real-time exchange rate.
